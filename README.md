@@ -20,3 +20,15 @@ The target variable is ` Yearly Amount Spent `, representing the total annual sp
 1. Determine whether the company should focus more on its mobile app or website to drive revenue.
 
 2. Build and evaluate a Linear Regression model to predict customer yearly spending.
+
+# Project Structure
+
+## Data Exploration & Cleaning
+
+I. Imported and examined the dataset
+
+
+
+II. Checked for missing values and data quality issues
+
+III. Generated summary statistics and visualizations
