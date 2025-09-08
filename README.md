@@ -27,7 +27,11 @@ II. Use a **Linear Regression model** to predict customer yearly spending.
 
 Below is a preview of the dataset after importing and examining it:  
 
-![Dataset Preview](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/download%20and%20import.png?raw=true)  
+![Dataset Preview](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/download%20and%20import.png?raw=true)
+
+![Dataset Preview](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/Missing%20values.png?raw=true)
+
+![Dataset Preview](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/e2d015d460e27d623744cdb173eaff6aabab80bf/Dataset%20overview.png?raw=true)
 
 ---
 
