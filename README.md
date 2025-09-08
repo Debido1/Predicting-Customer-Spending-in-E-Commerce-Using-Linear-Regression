@@ -29,7 +29,11 @@ Below is a preview of the dataset after importing and examining it:
 
 ![Dataset Preview](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/download%20and%20import.png?raw=true)
 
+![Dataset Preview](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/statistics.png?raw=true)
+
 ![Dataset Preview](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/Missing%20values.png?raw=true)
+
+![Dataset Preview](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/data%20cleaning.png?raw=true)
 
 ![Dataset Preview](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/e2d015d460e27d623744cdb173eaff6aabab80bf/Dataset%20overview.png?raw=true)
 
@@ -39,7 +43,7 @@ Below is a preview of the dataset after importing and examining it:
 
 Correlation heatmap showing relationships between features:  
 
-![Correlation Heatmap](images/correlation_heatmap.png)  
+![Correlation Heatmap](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/Correlation.png?raw=true)  
 
 ---
 
@@ -47,9 +51,9 @@ Correlation heatmap showing relationships between features:
 
 Regression line fit against actual data:  
 
-![Regression Line](images/regression_line.png)  
+![Regression Line](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/Model%20evaluation.png?raw=true)  
 
 Residual plot showing error distribution:  
 
-![Residual Plot](images/residual_plot.png)  
+![Residual Plot](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/residual.png?raw=true)  
 
