@@ -3,32 +3,49 @@ The goal of this Analysis is to Know if the E-Commerce store should focus their 
 
 # Dataset Overview
 
-The dataset includes detailed records of customer interactions with the platform, containing features such as:
+In this project, I explored an e-commerce dataset to understand customer behavior and predict their yearly spending. The dataset includes:  
+- Average session length  
+- Time spent on app  
+- Time spent on website  
+- Length of membership  
 
-1. Average Session Length
+The target variable is **Yearly Amount Spent** (how much each customer spends in a year).
 
-2. Time Spent on App
+## Goals of the Project  
+I. Find out whether the company should focus more on the **mobile app** or the **website**.  
+II. Use a **Linear Regression model** to predict customer yearly spending. 
 
-3. Time Spent on Website
+## Project Structure 
+1. Looked at the data and cleaned it.  
+2. Explored relationships between features (like app usage vs. website usage).  
+3. Built a linear regression model with Scikit-Learn.  
+4. Evaluated the model with metrics like R² and error scores.  
+5. Shared insights on customer behavior and spending patterns.  
 
-4. Length of Membership
 
-The target variable is ` Yearly Amount Spent `, representing the total annual spending of each customer.
+## Dataset Preview  
 
-# Objective
+Below is a preview of the dataset after importing and examining it:  
 
-1. Determine whether the company should focus more on its mobile app or website to drive revenue.
+![Dataset Preview](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/download%20and%20import.png)  
 
-2. Build and evaluate a Linear Regression model to predict customer yearly spending.
+---
 
-# Project Structure
+## Example Visualization  
 
-## Data Exploration & Cleaning
+Correlation heatmap showing relationships between features:  
 
-I. Imported and examined the dataset
+![Correlation Heatmap](images/correlation_heatmap.png)  
 
-![image alt](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/download%20and%20import.png)
+---
 
-II. Checked for missing values and data quality issues
+## Model Results  
 
-III. Generated summary statistics and visualizations
+Regression line fit against actual data:  
+
+![Regression Line](images/regression_line.png)  
+
+Residual plot showing error distribution:  
+
+![Residual Plot](images/residual_plot.png)  
+
