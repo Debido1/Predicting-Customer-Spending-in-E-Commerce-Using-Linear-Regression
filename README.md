@@ -37,7 +37,8 @@ Below is a preview of the dataset after importing and examining it:
 
 ![Dataset Preview](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/e2d015d460e27d623744cdb173eaff6aabab80bf/Dataset%20overview.png?raw=true)
 
----
+The dataset after cleaning contains 500 records and 5 key columns: Average Session Length, Time on App, Time on Website, Length of Membership, and Yearly Amount Spent. These features will serve as predictors for the target variable (Yearly Amount Spent).
+
 
 ## Example Visualization  
 
@@ -45,7 +46,7 @@ Correlation heatmap showing relationships between features:
 
 ![Correlation Heatmap](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/Correlation.png?raw=true)  
 
----
+The heatmap shows that Length of Membership (0.81) and Time on App (0.50) have the strongest positive correlations with Yearly Amount Spent, suggesting they are important predictors. Time on Website shows little to no relationship with spending, indicating that website activity may not significantly drive revenue compared to app usage.
 
 ## Model Results  
 
@@ -55,5 +56,6 @@ Regression line fit against actual data:
 
 Residual plot showing error distribution:  
 
-![Residual Plot](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/residual.png?raw=true)  
+![Residual Plot](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/residual.png?raw=true)
+The residuals are approximately normally distributed and centered around zero, which indicates that the linear regression model is a good fit. This supports the validity of the model’s assumptions and suggests that predictions are reliable
 
