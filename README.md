@@ -27,7 +27,7 @@ The target variable is ` Yearly Amount Spent `, representing the total annual sp
 
 I. Imported and examined the dataset
 
-
+![image alt](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/download%20and%20import.png)
 
 II. Checked for missing values and data quality issues
 
