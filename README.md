@@ -69,8 +69,7 @@ These results imply that customers who have been members longer and use the app 
 
 Time on App
 
-![Time on App](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/time%20on%20app.png
-?raw=true)
+![Time on App](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/time%20on%20app.png?raw=true)
 🔹 Time on App vs Yearly Amount Spent
 
 - Shows a strong positive linear relationship
@@ -78,8 +77,7 @@ Time on App
 
 Time on Website
 
-![Time on Website](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/time%20on%20website.png
-?raw=true)
+![Time on Website](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/time%20on%20website.png?raw=true)
 
 🔹 Time on Website vs Yearly Amount Spent
 
@@ -94,8 +92,7 @@ Time on Website
 
 
 ## Model training and Splitting
-![Data splitting](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/splitting.png
-?raw=true)
+![Data splitting](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/splitting.png?raw=true)
 
 Train/Test Split
 
@@ -116,15 +113,13 @@ Split into 400 train and 100 test samples
 
 Training and Prediction
 
-![Training and Prediction](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/Training%20and%20prediction.png
-?raw=true)
+![Training and Prediction](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/Training%20and%20prediction.png?raw=true)
 
 ## Model Results  
 
 Model Evaluation
 
-![Training and Prediction](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/r2.png
-?raw=true)
+![Training and Prediction](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/r2.png?raw=true)
 
 Model Evaluation Results
 
