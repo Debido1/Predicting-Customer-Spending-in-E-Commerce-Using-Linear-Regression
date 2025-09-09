@@ -12,8 +12,8 @@ In this project, I explored an e-commerce dataset to understand customer behavio
 The target variable is **Yearly Amount Spent** (how much each customer spends in a year).
 
 ## Goals of the Project  
-I. Find out whether the company should focus more on the **mobile app** or the **website**.  
-II. Use a **Linear Regression model** to predict customer yearly spending. 
+- Find out whether the company should focus more on the **mobile app** or the **website**.  
+- Use a **Linear Regression model** to predict customer yearly spending. 
 
 ## Project Structure 
 1. Looked at the data and cleaned it.  
@@ -70,16 +70,18 @@ These results imply that customers who have been members longer and use the app 
 Time on App
 
 ![Time on App](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/time%20on%20app.png?raw=true)
-🔹 Time on App vs Yearly Amount Spent
+
+
+**Time on App vs Yearly Amount Spent:**
 
 - Shows a strong positive linear relationship
 
 
-Time on Website
+**Time on Website**
 
 ![Time on Website](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/time%20on%20website.png?raw=true)
 
-🔹 Time on Website vs Yearly Amount Spent
+**Time on Website vs Yearly Amount Spent:**
 
 - Very weak correlation
 
@@ -94,9 +96,9 @@ Time on Website
 ## Model training and Splitting
 ![Data splitting](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/splitting.png?raw=true)
 
-Train/Test Split
+**Train/Test Split:**
 
-Split into 400 train and 100 test samples
+ The data was Splitted into 400 train and 100 test samples
 
 ### Features:
 
@@ -139,7 +141,7 @@ Regression line fit against actual data:
 
 ![Regression Line](https://github.com/Debido1/Predicting-Customer-Spending-in-E-Commerce-Using-Linear-Regression/blob/main/Model%20evaluation.png?raw=true)  
 
-Residual plot showing error distribution:
+**Residual plot showing error distribution:**
 
 - The points closely follow a diagonal line which Indicates the linear regression model fits the data well.
 
@@ -147,5 +149,11 @@ Residual plot showing error distribution:
 
 The residuals are approximately normally distributed and centered around zero, which indicates that the linear regression model is a good fit. This supports the validity of the model’s assumptions and suggests that predictions are reliable
 
-Overall Interpretation:
+
+**Interpretation:**
 The linear regression model performs exceptionally well. With a high R² value and low error metrics, the model can reliably predict yearly customer spending. This suggests that features like Time on App and Length of Membership are strong drivers of customer behavior and spending.
+
+## INSIGHT
+- **App usage** is a stronger driver of customer spending compared to website usage.  
+- **Length of membership** is another strong predictor of yearly spending.  
+- The linear regression model provides a good fit and can be used to predict customer spending, helping the company decide where to focus its marketing and development efforts.
