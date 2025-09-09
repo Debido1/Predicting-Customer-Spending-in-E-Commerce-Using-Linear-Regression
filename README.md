@@ -47,7 +47,7 @@ Non-numeric columns (Email, Address, and Avatar) are dropped to prepare the data
 The dataset after cleaning contains 500 records and 5 key columns: Average Session Length, Time on App, Time on Website, Length of Membership, and Yearly Amount Spent. These features will serve as predictors for the target variable (Yearly Amount Spent).
 
 
-## Example Visualization  
+## Visualization  
 
 Correlation heatmap showing relationships between features:  
 
